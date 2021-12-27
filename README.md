@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Rafael Souza
-- 👀 I’m interested in software development
-- 🌱 I'm studying Computer Science
-- 🌱 Future java developer
+- 👋 Hi, I’m Rafael Souza;
+- 👀 I’m interested in software development;
+- 🌱 I'm studying Computer Science;
+- ✨ Learning Java(Spring, SQL, Cloud, Microservices...).
 
 
 <!---
