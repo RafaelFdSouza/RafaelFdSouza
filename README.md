@@ -1,3 +1,4 @@
+![gitimage2](https://user-images.githubusercontent.com/90228022/147523296-61c88264-172c-4860-94b9-f0edb4505689.jpg)
 
 
 - 👋 Hi, I’m Rafael Souza;
