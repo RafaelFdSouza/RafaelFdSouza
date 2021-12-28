@@ -5,7 +5,7 @@
 - 👀 I’m interested in software development;
 - 🖥️ I'm studying Computer Science;
 - ✨ Learning Java(Spring, SQL, Cloud, Microservices...).
-- [Linkedin](https://www.linkedin.com/in/rafael-souza-7878a421b/)
+- ->[Linkedin](https://www.linkedin.com/in/rafael-souza-7878a421b/)
 
 
 <!---
