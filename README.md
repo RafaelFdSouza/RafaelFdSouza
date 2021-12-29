@@ -10,7 +10,6 @@
 -      ->Android Express(AT Digital)
 -      ->Desenvolvimento de aplicativos android(Udemy)
 -      ->Outros: Canais de especialistas Youtube e documentação oficial
--      
 -> [Linkedin](https://www.linkedin.com/in/rafael-souza-7878a421b/)
 
 
