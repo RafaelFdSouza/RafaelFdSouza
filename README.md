@@ -2,7 +2,7 @@
 
 
 - 👋 Oi,eu sou o Rafael, 28 anos;
- -👀 Estou cursando Ciências da Computação(4º semestre);
+- 👀 Estou cursando Ciências da Computação(4º semestre);
 - 🖥️ Quero me especializar na área de desenvolvimento de software, mais precisamente em mobile;
 - ✨ Estou estudando Kotlin e Java para trabalhar em desenvolvimento nativo Android;
 - ✨ Cursos:
