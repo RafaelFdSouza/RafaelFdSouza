@@ -1,7 +1,7 @@
 ![gitimage3](https://user-images.githubusercontent.com/90228022/147524694-d769c9e9-0360-4210-9628-828ae9ed18bb.jpg)
 
 
-- 👋 Oi,eu sou o Rafael, 28 anos;
+- 👋 Oi,eu sou o Rafael, 29 anos;
 - 👀 Estou cursando Ciências da Computação(4º semestre);
 - 🖥️ Quero me especializar na área de desenvolvimento de software, mais precisamente em mobile;
 - ✨ Estou estudando Kotlin e Java para trabalhar em desenvolvimento nativo Android;
